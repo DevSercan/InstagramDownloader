@@ -1,0 +1,12 @@
+{
+    "privateAccount": "Bu hesap gizli.",
+    "publicAccount": "Bu hesap herkese açık.",
+    "loginException": "Hesap girişi başarısız oldu.",
+    "invalidLanguage": "Yapılandırmadaki dil geçersiz.",
+    "noMetadata": "Kullanıcı hesabına giriş yapılamadığı için meta veriler alınamayacak.",
+    "downloadSuccessful": "Profil gönderileri başarıyla indirildi.",
+    "downloadFailed": "Profil gönderileri indirilemedi.",
+    "username": "Kullanıcı Adı",
+    "usernameEmpty": "Kullanıcı adı boş bırakılamaz!",
+    "enterToExit": "Kapatmak için Enter'a basın..."
+}

@@ -1,0 +1,15 @@
+{
+    "language": "tr",
+
+    "logging": {
+        "minimumLevel": 5,
+        "path": "logs/",
+        "fileSizeLimitMegabytes": 10,
+        "printLogsToConsole": 1
+    },
+
+    "account": {
+        "username": "john_doe",
+        "password": "123456"
+    }
+}

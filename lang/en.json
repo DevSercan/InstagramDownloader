@@ -1,0 +1,12 @@
+{
+    "privateAccount": "This account is private.",
+    "publicAccount": "This account is public.",
+    "loginException": "The account login is failed.",
+    "invalidLanguage": "The language in the configuration is invalid.",
+    "noMetadata": "The metadata will not be retrieved because the user account could not be logged in.",
+    "downloadSuccessful": "Profile posts downloaded successfully.",
+    "downloadFailed": "Profile posts download failed.",
+    "username": "Username",
+    "usernameEmpty": "Username cannot be left empty!",
+    "enterToExit": "Press Enter to exit..."
+}
